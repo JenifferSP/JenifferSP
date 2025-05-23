@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
   <h1 align="center">Hello world, hello devs 👋 <br/> Me chamo <a href="https://www.linkedin.com/in/jeniffer-sousa-748aaa1b0/">Jeniffer Sousa</a> ✨</h1>
-  <p align="center"> Sou uma designer estudando Desenvolvimento de sistemas na Etec</p>
+  <p align="center"> Estudando Desenvolvimento de sistemas</p>
 </div>
  
 
